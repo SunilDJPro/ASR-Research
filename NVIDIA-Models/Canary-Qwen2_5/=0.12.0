@@ -1,0 +1,4 @@
+Requirement already satisfied: soundfile in /home/smtai/ASR-Research/asr_env/lib/python3.12/site-packages (0.13.1)
+Requirement already satisfied: cffi>=1.0 in /home/smtai/ASR-Research/asr_env/lib/python3.12/site-packages (from soundfile) (2.0.0)
+Requirement already satisfied: numpy in /home/smtai/ASR-Research/asr_env/lib/python3.12/site-packages (from soundfile) (2.3.5)
+Requirement already satisfied: pycparser in /home/smtai/ASR-Research/asr_env/lib/python3.12/site-packages (from cffi>=1.0->soundfile) (2.23)

@@ -1,0 +1,17 @@
+# NVIDIA Canary-Qwen-2.5B ASR Evaluation Requirements
+# ==================================================
+
+# NeMo Toolkit (latest trunk for SALM support)
+# Install separately with: pip install "nemo_toolkit[asr] @ git+https://github.com/NVIDIA/NeMo.git" --break-system-packages
+# Requires PyTorch 2.6+ for FSDP2 support
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# GPU monitoring  
+py3nvml>=0.2.7
+
+# Core dependencies (usually installed with NeMo)
+numpy>=1.24.0
+torch>=2.6.0
