@@ -1,0 +1,3 @@
+[submodule "NVIDIA-Models/Parakeet_CPP/parakeet.cpp"]
+	path = NVIDIA-Models/Parakeet_CPP/parakeet.cpp
+	url = https://github.com/mudler/parakeet.cpp.git
