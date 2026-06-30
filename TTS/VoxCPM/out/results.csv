@@ -1,0 +1,11 @@
+mode,idx,audio_s,gen_s,rtf,first_chunk_s,stream_rtf,sim,text
+ultimate,00,4.96,20.896,4.213,0.795,2.862,0.7897,The quarterly report shows a twelve percent increase in net revenue.
+ultimate,01,4.48,12.782,2.853,0.774,2.868,0.6917,Please configure the Kubernetes ingress before deploying the service.
+ultimate,02,4.48,12.776,2.852,0.781,2.86,0.8185,She said the appointment was rescheduled to next Thursday afternoon.
+ultimate,03,4.48,12.963,2.893,0.776,2.876,0.8255,Our latency dropped below two hundred milliseconds after the refactor.
+ultimate,04,4.64,13.306,2.868,0.798,2.887,0.7615,Can you summarize the key findings in three short bullet points?
+controllable,00,4.48,12.69,2.833,0.708,2.864,0.7777,The quarterly report shows a twelve percent increase in net revenue.
+controllable,01,4.0,11.373,2.843,0.68,2.861,0.4535,Please configure the Kubernetes ingress before deploying the service.
+controllable,02,4.96,14.081,2.839,0.684,2.861,0.7018,She said the appointment was rescheduled to next Thursday afternoon.
+controllable,03,4.48,12.753,2.847,0.696,2.852,0.6903,Our latency dropped below two hundred milliseconds after the refactor.
+controllable,04,4.32,12.288,2.845,0.693,2.875,0.6961,Can you summarize the key findings in three short bullet points?
